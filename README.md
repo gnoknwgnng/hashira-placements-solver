@@ -12,4 +12,3 @@ Given roots of a polynomial in various number bases, the program:
 ## Files
 
 - `test-runner.js` - Main solution that accepts JSON file input
-- `polynomial-solver.js` - Alternative so
