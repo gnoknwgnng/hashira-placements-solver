@@ -1,1 +1,0 @@
-# hashira-placements-solver

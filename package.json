@@ -1,0 +1,12 @@
+{
+  "name": "hashira-placements-solver",
+  "version": "1.0.0",
+  "description": "Polynomial interpolation solver for Shamir's Secret Sharing",
+  "main": "polynomial-solver.js",
+  "scripts": {
+    "start": "node polynomial-solver.js",
+    "test": "node test-runner.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
